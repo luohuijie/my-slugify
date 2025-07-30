@@ -1,6 +1,6 @@
 {
   "name": "my-slugify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
@@ -20,7 +20,11 @@
     "build": "tsc",
     "test": "vitest"
   },
-  "keywords": ["slugify", "multilang", "utils"],
+  "keywords": [
+    "slugify",
+    "multilang",
+    "utils"
+  ],
   "author": "luohuijie",
   "license": "MIT",
   "description": "A minimal multi-language slugify utility function",
